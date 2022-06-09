@@ -1,0 +1,1 @@
+{"a7382f9f77d18ca1f94df69415a5d3de":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"38ad6d258e7f0d66","reportUrl":"https://sltnwlf.github.io/AllureReportTestJava16/1//#testresult/38ad6d258e7f0d66","status":"passed","time":{"start":1654768303443,"stop":1654768306126,"duration":2683}}]}}
